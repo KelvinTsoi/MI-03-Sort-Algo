@@ -1,4 +1,13 @@
-# MI-03-SortAlgo
-Previding various kind of Sorting Algorithms
+# Sorting Algorithm
 
-More information will coming up soon...
+------
+
+**SortAlgo** aim to implemented various kinds of Sorting Algorithm：
+
+> * Selection Sort
+> * Bubble Sort
+> * Insert Sort
+> * Fast Sort
+> * Merge Sort
+
+I will continuously adding more sorting Algorithm into this repository.
